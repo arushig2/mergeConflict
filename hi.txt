@@ -1,1 +1,3 @@
-welcome to git
+this is edited in feature branch
+we are expecting merge conflict.
+hello world
